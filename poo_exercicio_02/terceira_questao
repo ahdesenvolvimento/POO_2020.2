@@ -1,0 +1,1 @@
+O resultado será 9, pois no IF ele verifica se 'a' é maior que 11, como a condição é falsa ele da um salto direto para o ELSE

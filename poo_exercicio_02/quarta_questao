@@ -1,0 +1,2 @@
+A saída será 1 sendo repetido 3 vezes, pois no switch ele verifica o valor da variavel 'OP', como o seu valor é 1 ele acaba caindo no
+primeiro case, entretando, como não existe um break na apos a execução do primeiro case, ele cai no segundo case e o processo se repete
