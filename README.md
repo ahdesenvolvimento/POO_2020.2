@@ -1,6 +1,10 @@
 # POO_2020.2
 
-## Respostas poo_03_exercicio
+# Desconsiderar a pasta Atividades
+
+## As respostas escritas da atividade poo_exercicio_02 estão em arquivos de texto que eu criei dento da pasta
+
+## Respostas poo_exercicio_03
 ### 1
 - Não, pois um atributo de classe sempre será inicializado pelo valor 0
 ### 2
