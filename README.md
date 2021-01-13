@@ -20,3 +20,9 @@ da erro
 ### 6
 - a) Resultado é 90 90, pois o c1 perdeu a referencia e apontou para c2, logo qualquer operação em c1 iria afetar c2 e vice-versa
 - b) A referencia é perdida
+
+## Respostas poo_exercicio_04
+### 1
+- Imprime o valor do index
+### 2
+- Erro de execução, pois da uma exception em tempo de execução
