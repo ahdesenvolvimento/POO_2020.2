@@ -26,3 +26,34 @@ da erro
 - Imprime o valor do index
 ### 2
 - Erro de execução, pois da uma exception em tempo de execução
+
+## Respostas poo_exercicio_05
+### 1
+- Erro, pois primeiro precisa ser importado os pacotes
+
+# Respostas poo_exercicio_06_parte_2
+### 4)a
+- Todo boi é animal, mas nem todo animal é boi
+### 4)b
+= Não, pois não é possivel converter animal para peixe
+
+### 5)c
+- pois todo peixe e bovino é animal
+
+### 11
+= V, V, V, V, V
+
+### 12
+- Exibe o metodo 1 da classe b
+
+### 13
+- Da erro, pois o metodo 2 não existe na classe a
+
+### 14
+- Irá chamar o metodo 1 na classe a no metodo 1 da classe b
+
+### 16
+- Pois para ter a sobrecarga de metodos, precisam ter parametros diferentes
+
+### 17
+- Não está tendo a sobrecarga, por isso da erro na execução, para ajeitar, basta reduzir ou aumentar o numero de parametros ou então mudar o tipo dos parametros
