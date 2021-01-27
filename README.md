@@ -57,3 +57,21 @@ da erro
 
 ### 17
 - Não está tendo a sobrecarga, por isso da erro na execução, para ajeitar, basta reduzir ou aumentar o numero de parametros ou então mudar o tipo dos parametros
+
+
+## Respostas poo_exercicio_07
+### 7
+- Sim, pois o método transferir faz uso de outros dois metodos que estão devidamente validados.
+
+### 11
+- Erro, pois por ser a mesma exceção, ja diz que ja foi capturado
+
+### 12
+- O programa entra no primeiro try, nesse try ele gera um exception, no primeiro catch esse exception é capturado, o processo é repetido, o segundo try gera outro exception que é capturado pelo segundo catch, no fim do segundo catch, tem o print de A, no fim do segundo catch tem o print de B e fora do escopo do try e catch tem o print de C
+
+### 13
+### a)
+- Os pontos falhos apresentados, são uteis principalmente para o estudo de programação, porém deixam o código feio e as vezes não utilizavel em outras plataformas
+
+### b)
+- Pois deixa o código mais robusto e utilizavel em varias plataformas
