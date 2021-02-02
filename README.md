@@ -75,3 +75,17 @@ da erro
 
 ### b)
 - Pois deixa o código mais robusto e utilizavel em varias plataformas
+
+## Respostas poo_exercicio_07
+
+### 1
+- Não, podem ser somente herdadas, pois as classes abstratas servem como uma base
+
+### 2
+- Classes que herdam de uma classe abstrata são obrigadas a implementar seus métodos, no caso dessa questão basta que a ClasseConcreta implemente o método imprimaAlgo() da ClasseAbstrata
+
+### 3
+- Erro de compilação
+
+### 6
+- Pois se está criando um array de figuras geometricas e não instanciando a classe
